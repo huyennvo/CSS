@@ -1,0 +1,14 @@
+.container {
+    
+}
+.header {
+    background-color: #02BFB1;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    padding: 10px;
+}
+
+html {
+    background-color: #C4EBF9;
+}

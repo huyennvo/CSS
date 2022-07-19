@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 500px;
+    height: 1000px;
+    background-color: pink;
+}
+
+img {
+    display: block;
+    max-width:300px;
+    max-height:300px;
+    width: auto;
+    height: auto;
+    align-items: center;
+  }
+ 
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+.left {
+    
+}
+
+.right {
+    
+}

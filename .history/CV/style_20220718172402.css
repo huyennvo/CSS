@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.container {
+    width: 500px;
+    height: 1300px;
+    background-color: pink;
+    box-sizing: border-box; 
+}
+
+img {
+    display: block;
+    max-width:300px;
+    max-height:300px;
+    width: auto;
+    height: auto;
+  }
+ 
+h1, h4 {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+
+h4 {
+    text-align: left;
+}
+
+h5{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-style: italic;
+}
+.left {
+    border: 15px;
+    border-color: black;
+   
+}
+
+.right {
+    border-top: 50px;
+    border-color: black;
+    background-color: pink;
+}
+
+p, li {
+    text-align: justify;
+     margin: 20px; 
+}
+

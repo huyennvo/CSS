@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 500px;
+    height: 1000px;
+    background-color: pink;
+}
+
+img {
+    display: block;
+    max-width:500px;
+    max-height:500px;
+    width: auto;
+    height: auto;
+  }
+.left {
+    
+}
+
+.right {
+    
+}

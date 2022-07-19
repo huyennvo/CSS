@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.container {
+    width: 500px;
+    height: 1000px;
+    background-color: pink;
+    box-sizing: border-box; 
+}
+
+img {
+    display: block;
+    max-width:300px;
+    max-height:300px;
+    width: auto;
+    height: auto;
+  }
+ 
+h1, h4 {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+
+h4 {
+    text-align: left;
+}
+
+h5{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-style: italic;
+}
+.left {
+    
+}
+
+.right {
+
+    border: 15px;
+    border-color: black;
+}
+
+p, li {
+    text-align: justify;
+}
+
